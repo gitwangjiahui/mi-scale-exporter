@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
-    Microsoft ResX Schema 
-    
+  <!--
+    Microsoft ResX Schema
+
     Version 2.0
-    
-    The primary goals of this format is to allow a simple XML format 
-    that is mostly human readable. The generation and parsing of the 
-    various data types are done through the TypeConverter classes 
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
     associated with the data types.
-    
+
     Example:
-    
+
     ... ado.net/XML headers & schema ...
     <resheader name="resmimetype">text/microsoft-resx</resheader>
     <resheader name="version">2.0</resheader>
@@ -26,36 +26,36 @@
         <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
         <comment>This is a comment</comment>
     </data>
-                
-    There are any number of "resheader" rows that contain simple 
+
+    There are any number of "resheader" rows that contain simple
     name/value pairs.
-    
-    Each data row contains a name, and value. The row also contains a 
-    type or mimetype. Type corresponds to a .NET class that support 
-    text/value conversion through the TypeConverter architecture. 
-    Classes that don't support this are serialized and stored with the 
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
     mimetype set.
-    
-    The mimetype is used for serialized objects, and tells the 
-    ResXResourceReader how to depersist the object. This is currently not 
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
     extensible. For a given mimetype the value must be set accordingly:
-    
-    Note - application/x-microsoft.net.object.binary.base64 is the format 
-    that the ResXResourceWriter will generate, however the reader can 
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
     read any of the formats listed below.
-    
+
     mimetype: application/x-microsoft.net.object.binary.base64
-    value   : The object must be serialized with 
+    value   : The object must be serialized with
             : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
             : and then encoded with base64 encoding.
-    
+
     mimetype: application/x-microsoft.net.object.soap.base64
-    value   : The object must be serialized with 
+    value   : The object must be serialized with
             : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
             : and then encoded with base64 encoding.
 
     mimetype: application/x-microsoft.net.object.bytearray.base64
-    value   : The object must be serialized into a byte array 
+    value   : The object must be serialized into a byte array
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
@@ -118,264 +118,264 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AboutGarmin" xml:space="preserve">
-    <value>This application is an open source community project and I have no affiliation with Garmin.</value>
+    <value>这个应用程序是一个开源社区项目，我与Garmin没有任何关系。</value>
   </data>
   <data name="AboutMeasureInstruction" xml:space="preserve">
-    <value>Set the bluetooth address of the scale, and your data in the settings. Stand on your scale. Measure yourself. Mi Body Composition Scale is active up to 15 min after the measurement.</value>
+    <value>在设置中设置尺度的蓝牙地址和您的数据。站在你的秤上。衡量你自己。Mi身体成分量表在测量后15分钟内有效。</value>
   </data>
   <data name="AboutMFAAndStoringData" xml:space="preserve">
-    <value>The application now supports MFA/2FA security features. If you save credentials in settings, authorization tokens will be remembered and you won't be asked every time for MFA code.</value>
+    <value>该应用程序现在支持MFA/2FA安全功能。如果您在设置中保存凭据，则会记住授权令牌，并且不会每次都要求您输入MFA代码。</value>
   </data>
   <data name="AboutUpload" xml:space="preserve">
-    <value>Then you can review your data and upload it to Garmin Cloud. If you do not have Mi scale and just want to manually insert the data, you can so.</value>
+    <value>然后，您可以查看数据并将其上传到Garmin Cloud。如果您没有Mi scale并且只想手动插入数据，则可以这样做。</value>
   </data>
   <data name="Age" xml:space="preserve">
-    <value>Age</value>
+    <value>年龄</value>
   </data>
   <data name="AlternateExternalAPIAddress" xml:space="preserve">
-    <value>Alternate External API Address</value>
+    <value>备用外部API地址</value>
   </data>
   <data name="AppSettings" xml:space="preserve">
-    <value>App Settings</value>
+    <value>设置</value>
   </data>
   <data name="BasalMetabolosimKCal" xml:space="preserve">
-    <value>Basal Metabolism (kCal):</value>
+    <value>基础代谢（千卡）：</value>
   </data>
   <data name="BluetoothAddress" xml:space="preserve">
-    <value>Bluetooth Address</value>
+    <value>蓝牙地址</value>
   </data>
   <data name="BMI" xml:space="preserve">
-    <value>BMI</value>
+    <value>身体指数</value>
   </data>
   <data name="BodyAgeYears" xml:space="preserve">
-    <value>Body age (years)</value>
+    <value>身体年龄（岁）</value>
   </data>
   <data name="BodyFatPercent" xml:space="preserve">
-    <value>Body Fat (%)</value>
+    <value>体脂（%）</value>
   </data>
   <data name="BodyType" xml:space="preserve">
-    <value>Body Type</value>
+    <value>体型</value>
   </data>
   <data name="BoneMassPercent" xml:space="preserve">
-    <value>Bone mass (Kg)</value>
+    <value>骨量（Kg）</value>
   </data>
   <data name="BuyMeACoffee" xml:space="preserve">
-    <value>Buy me a coffee</value>
+    <value>给我买杯咖啡</value>
   </data>
   <data name="CancelMFARequest" xml:space="preserve">
-    <value>Cancel MFA Request</value>
+    <value>取消MFA请求</value>
   </data>
   <data name="CancelSearch" xml:space="preserve">
-    <value>Cancel Search</value>
+    <value>取消搜索</value>
   </data>
   <data name="CreatedBy" xml:space="preserve">
-    <value>Created by Lukasz Swiderski 2023</value>
+    <value>由Lukasz Swiderski于2023年创作</value>
   </data>
   <data name="DataCouldNotBeObtained" xml:space="preserve">
-    <value>Data could not be obtained. try again</value>
+    <value>无法获得数据。再试一次</value>
   </data>
   <data name="DoYouLikeAndWouldYouLikeToSupport" xml:space="preserve">
-    <value>Do you like this app and would you like to support it?</value>
+    <value>你喜欢这个应用程序，你想支持它吗？</value>
   </data>
   <data name="Email" xml:space="preserve">
-    <value>Email</value>
+    <value>电子邮件</value>
   </data>
   <data name="Female" xml:space="preserve">
-    <value>Female</value>
+    <value>女</value>
   </data>
   <data name="GarminBodyCompositionForm" xml:space="preserve">
-    <value>Garmin Body Composition Form</value>
+    <value>Garmin身体组成形式</value>
   </data>
   <data name="GarminForm" xml:space="preserve">
     <value>Garmin Form</value>
   </data>
   <data name="GarminSettings" xml:space="preserve">
-    <value>Garmin Settings</value>
+    <value>Garmin设置</value>
   </data>
   <data name="GenerateOnlyFitFile" xml:space="preserve">
-    <value>Generate only .fit file</value>
+    <value>只生成.fit文件</value>
   </data>
   <data name="GoToScan" xml:space="preserve">
-    <value>Go to scan</value>
+    <value>去扫描</value>
   </data>
   <data name="Height" xml:space="preserve">
-    <value>Height</value>
+    <value>身高</value>
   </data>
   <data name="Help" xml:space="preserve">
-    <value>Help</value>
+    <value>帮助</value>
   </data>
   <data name="HelpCoffee" xml:space="preserve">
-    <value>8. Coffee</value>
+    <value>8. 咖啡</value>
   </data>
   <data name="HelpCoffeeDescription" xml:space="preserve">
-    <value>Keep in mind that this is my hobby project. It was created for my inner needs and I believe it may be useful to others as well. I do not receive any compensation for creating and maintaining this project. If you want to support the development or thank me, you can buy me a coffee.</value>
+    <value>请记住，这是我的兴趣项目。它是为我的内心需求而创造的，我相信它对其他人也很有用。我不接受创建和维护这个项目的任何补偿。如果你想支持开发或者感谢我，你可以请我喝杯咖啡。</value>
   </data>
   <data name="HelpConnect" xml:space="preserve">
-    <value>1. How to connect to the scale</value>
+    <value>1.如何连接到秤</value>
   </data>
   <data name="HelpConnectDescription" xml:space="preserve">
-    <value>Set the Bluetooth address of the scale in settings. Set the correct age/height/gender values. Measure yourself. The scale is active for up to 15 minutes after measurement.</value>
+    <value>在设置中设置秤的蓝牙地址。设置正确的年龄/身高/性别值。衡量你自己。该秤在测量后最多15分钟是有效的。</value>
   </data>
   <data name="HelpConnectDescription2" xml:space="preserve">
-    <value>Bluetooth address can be found in Zepp Life &gt; Profile &gt; My devices &gt; Mi Body Composition Scale &gt; Bluetooth address (hold to copy)</value>
+    <value>蓝牙地址可在Zepp Life> 个人资料> 我的设备> Mi身体成分秤> 蓝牙地址 (按住复制) 中找到</value>
   </data>
   <data name="HelpExternalApi" xml:space="preserve">
-    <value>5. External Api</value>
+    <value>5.外部Api</value>
   </data>
   <data name="HelpExternalApiDescription" xml:space="preserve">
-    <value>External API is used as a proxy for older Android phones (9 or lower). The default address is https://frog01-20364.wykr.es/. You can host your own version of the API and this app will send the data to your system instead of Garmin. Check out the project repository for more information.</value>
+    <value>外部API用作旧版Android手机 (9或更低) 的代理。默认地址为https:// frog01-20364.wykr.es/。您可以托管自己的API版本，此应用程序将数据发送到您的系统，而不是Garmin。请查看项目存储库以获取更多信息。</value>
   </data>
   <data name="HelpFeedback" xml:space="preserve">
-    <value>7. Feedback &amp; Contact</value>
+    <value>7.反馈和联系</value>
   </data>
   <data name="HelpFeedbackDescription" xml:space="preserve">
-    <value>If you found a bug, need a feature or have an idea, share it with me at the project repository.</value>
+    <value>如果你发现了 Bug、需要一个功能或有任何想法，请在项目仓库中分享给我。</value>
   </data>
   <data name="HelpGarminAndXiaomi" xml:space="preserve">
-    <value>6. Garmin and Xiaomi</value>
+      <value>6. Garmin 与小米</value>
   </data>
   <data name="HelpGarminAndXiaomiDescription" xml:space="preserve">
-    <value>This application is an open source community project and I have no affiliation with Garmin or Xiaomi. You use it at your own risk. You can always check out the source code on Github.</value>
+      <value>本应用是一个开源社区项目，与 Garmin 或小米没有任何关联。使用本应用风险自负。你可以随时在 GitHub 上查看源代码。</value>
   </data>
   <data name="HelpHowItWorks" xml:space="preserve">
-    <value>2. How It works</value>
+      <value>2. 工作原理</value>
   </data>
   <data name="HelpHowItWorksDescription" xml:space="preserve">
-    <value>This App pass your data, email and password directly to Garmin Cloud or via external API server. The API does not store or log anything, it's just a middleware between this App and Garmin services.</value>
+      <value>本应用会将你的数据、电子邮件和密码直接传递到 Garmin 云服务，或通过外部 API 服务器中转。该 API 不会存储或记录任何信息，仅作为本应用与 Garmin 服务之间的中间层。</value>
   </data>
   <data name="HelpStrangeResults" xml:space="preserve">
-    <value>3. Strange results? (Like 10kg only)</value>
+      <value>3. 结果异常？（例如仅显示 10 公斤）</value>
   </data>
   <data name="HelpStrangeResultsDescription" xml:space="preserve">
-    <value>If you have the Mi Body Composition Scale 2. Disable the 'Weight small object' option in Zepp Life</value>
+      <value>如果你使用的是小米体脂秤 2，请在 Zepp Life 中关闭 “称量小物体” 选项。</value>
   </data>
   <data name="HelpZeppLifeDriference" xml:space="preserve">
-    <value>4. Results different from Zepp Life</value>
+      <value>4. 与 Zepp Life 的结果不同</value>
   </data>
   <data name="HelpZeppLifeDriferenceDescription" xml:space="preserve">
-    <value>Please check the age/height/gender parameters - should be identical in both apps. But even then, the values may be slightly different because we do not use the exact algorithm used by Xiaomi, but an alternative open source algorithm.</value>
+      <value>请检查年龄、身高、性别等参数——在两个应用中应保持一致。但即使如此，数值可能仍有差异，因为我们没有使用小米的官方算法，而是采用了一个开源替代算法。</value>
   </data>
   <data name="IdealWeightKg" xml:space="preserve">
-    <value>Ideal Weight (Kg):</value>
+      <value>理想体重（公斤）：</value>
   </data>
   <data name="Male" xml:space="preserve">
-    <value>Male</value>
+      <value>男性</value>
   </data>
   <data name="MFACode" xml:space="preserve">
-    <value>MFA Code</value>
+    <value>多因素验证码</value>
   </data>
   <data name="MiBodyCompositionScale" xml:space="preserve">
-    <value>Mi Body Composition Scale 1 / 2</value>
+      <value>小米体脂秤 1 / 2</value>
   </data>
   <data name="MiScale" xml:space="preserve">
-    <value>Mi Scale</value>
+      <value>小米体重秤</value>
   </data>
   <data name="MiScaleData" xml:space="preserve">
-    <value>Mi Scale Data</value>
+      <value>小米体重秤数据</value>
   </data>
   <data name="MiScaleExporter" xml:space="preserve">
-    <value>Mi Scale Exporter</value>
+      <value>小米体重秤数据导出器</value>
   </data>
   <data name="MiSmartScale" xml:space="preserve">
-    <value>Mi Smart Scale</value>
+      <value>小米智能体重秤</value>
   </data>
   <data name="MuscleMassAsPercentage" xml:space="preserve">
-    <value>Muscle mass as %</value>
+      <value>肌肉质量百分比</value>
   </data>
   <data name="MuscleMassKg" xml:space="preserve">
-    <value>Muscle Mass (Kg)</value>
+      <value>肌肉质量（公斤）</value>
   </data>
   <data name="MuscleMassPer" xml:space="preserve">
-    <value>Muscle Mass (%)</value>
+      <value>肌肉质量（%）</value>
   </data>
   <data name="NotFound" xml:space="preserve">
-    <value>Not found</value>
+      <value>未找到</value>
   </data>
   <data name="OK" xml:space="preserve">
-    <value>OK</value>
+      <value>确定</value>
   </data>
   <data name="OneClickScanUpload" xml:space="preserve">
-    <value>One click - Scan &amp; Upload</value>
+      <value>一键扫描并上传</value>
   </data>
   <data name="OpenHelp" xml:space="preserve">
-    <value>Open Help</value>
+      <value>打开帮助</value>
   </data>
   <data name="Password" xml:space="preserve">
-    <value>Password</value>
+      <value>密码</value>
   </data>
   <data name="PermissionBluetoothRequired" xml:space="preserve">
-    <value>Permission to use Bluetooth is required to scan.</value>
+      <value>扫描需要蓝牙权限。</value>
   </data>
   <data name="PermissionLocationRequired" xml:space="preserve">
-    <value>Permission to use Location (Bluetooth) is required to scan.</value>
+      <value>扫描需要位置信息（蓝牙）权限。</value>
   </data>
   <data name="Problem" xml:space="preserve">
-    <value>Problem</value>
+      <value>问题</value>
   </data>
   <data name="ProteinPercent" xml:space="preserve">
-    <value>Protein (%):</value>
+      <value>蛋白质（%）：</value>
   </data>
   <data name="ResetToDefault" xml:space="preserve">
-    <value>Reset to Default</value>
+      <value>恢复默认设置</value>
   </data>
   <data name="Response" xml:space="preserve">
-    <value>Response</value>
+      <value>响应</value>
   </data>
   <data name="ScaleModel" xml:space="preserve">
-    <value>Scale Model</value>
+      <value>秤型号</value>
   </data>
   <data name="ScaleSettings" xml:space="preserve">
-    <value>Scale Settings</value>
+      <value>秤设置</value>
   </data>
   <data name="Scanning" xml:space="preserve">
-    <value>Scanning...</value>
+      <value>正在扫描...</value>
   </data>
   <data name="Settings" xml:space="preserve">
-    <value>Settings</value>
+    <value>设置</value>
   </data>
   <data name="SettingsHideAds" xml:space="preserve">
-    <value>Hide Ads Banner</value>
+      <value>隐藏广告横幅</value>
   </data>
   <data name="Sex" xml:space="preserve">
-    <value>Sex</value>
+      <value>性别</value>
   </data>
   <data name="ShowDebug" xml:space="preserve">
-    <value>Show Debug Info during scan</value>
+      <value>扫描时显示调试信息</value>
   </data>
   <data name="Start" xml:space="preserve">
-    <value>Start</value>
+      <value>开始</value>
   </data>
   <data name="StopMeasure" xml:space="preserve">
-    <value>Stop Measure</value>
+      <value>停止测量</value>
   </data>
   <data name="TimeOfMeasurement" xml:space="preserve">
-    <value>Time of measurement</value>
+      <value>测量时间</value>
   </data>
   <data name="Uploaded" xml:space="preserve">
-    <value>Uploaded</value>
+      <value>已上传</value>
   </data>
   <data name="Uploading" xml:space="preserve">
-    <value>Uploading...</value>
+      <value>正在上传...</value>
   </data>
   <data name="UploadToGarminCloud" xml:space="preserve">
-    <value>Upload to Garmin Cloud</value>
+      <value>上传至 Garmin 云</value>
   </data>
   <data name="UseExternalAPI" xml:space="preserve">
-    <value>Use External API</value>
+      <value>使用外部 API</value>
   </data>
   <data name="ValuesThatWillNotBeSentToTheCloud" xml:space="preserve">
-    <value>Values that will not be sent to the cloud:</value>
+      <value>不会上传到云端的数值：</value>
   </data>
   <data name="VisceralFat" xml:space="preserve">
-    <value>Visceral fat</value>
+      <value>内脏脂肪</value>
   </data>
   <data name="VisitProjectRepository" xml:space="preserve">
-    <value>Visit the project repository</value>
+      <value>访问项目仓库</value>
   </data>
   <data name="WaterPercent" xml:space="preserve">
-    <value>Water (%)</value>
+      <value>水分（%）</value>
   </data>
   <data name="WeightKg" xml:space="preserve">
-    <value>Weight (Kg)</value>
+      <value>体重（公斤）</value>
   </data>
 </root>
